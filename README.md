@@ -1,9 +1,9 @@
-![cb5dce0c62b8ee5800fcc9a752825aee (1)](https://github.com/user-attachments/assets/3492e82d-a88a-450f-aff9-562a01d1c72e)
-
+</a>
 
 <a href="https://i.ibb.co/dJfTwhfK/images-59.jpg"><img src="![cb5dce0c62b8ee5800fcc9a752825aee (1)](https://github.com/user-attachments/assets/9b608c05-46f8-4987-9802-b1635f8369aa)
 " /></a>                     
-    <h1 align="center">NEZHA-XMD BOT CREATED BY UCEY</h1>
+  
+<h1 align="center">NEZHA-XMD BOT CREATED BY UCEY</h1>
   </a>
 
 
