@@ -78,21 +78,3 @@
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-
-
-
-
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-   
-
-![cb5dce0c62b8ee5800fcc9a752825aee (1)](https://github.com/user-attachments/assets/f94fed59-54ec-4da2-a738-74e338c89946)
-    <h1 align="center">BUMBLEBEE-XMD</h1>
-  </a>                    
-    
