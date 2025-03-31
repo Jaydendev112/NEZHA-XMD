@@ -1,11 +1,11 @@
 {
-  "name": "𝗕𝘂𝗺𝗯𝗹𝗲𝗯𝗲𝗲-𝗫𝗺𝗱",
+  "name": "𝗡𝗘𝗭𝗛𝗔-𝗫𝗺𝗱",
   "description": "Javascript WhatsApp bot made by 𝗕𝘂𝗺𝗯𝗹𝗲𝗯𝗲𝗲-𝗫𝗺𝗱.",
   "keywords": ["𝗕𝘂𝗺𝗯𝗹𝗲𝗯𝗲𝗲-𝗫𝗺𝗱D"],
   
   
-  "logo": "https://files.catbox.moe/3ahexg.jpg",
-  "repository": "https://github.com/Black-Tappy/Bumblebee-XMD",
+  "logo": "https://i.ibb.co/dJfTwhfK/images-59.jpg",
+  "repository": "https://github.com/Jaydendev112/NEZHA-XMD",
   "succes_url": "/",
 
   "stack": "container",
@@ -25,7 +25,7 @@
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> BUMBLEBEE-XMD IS ACTIVE AND ALIVE⚡"
+      "value": "> NEZHA-XMD IS ACTIVE AND ALIVE⚡"
     },
     
     "PREFIX": {
@@ -88,19 +88,19 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "🅑r̸𝐢𝖌𝖍t̸_×͜×"
+      "value": "DAKR MD_×͜×"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254759000340"
+      "value": "254107065646"
  },
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ ʙᴜᴍʙʟᴇʙᴇᴇ-xᴍᴅ ✦"
+      "value": "NEZHA-XMD"
 
       }, 
 
@@ -120,7 +120,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*ʙᴜᴍʙʟᴇʙᴇᴇ-xᴍᴅ*"
+      "value": "*developed by the best*"
     },
 
       "DELETE_LINKS": {
