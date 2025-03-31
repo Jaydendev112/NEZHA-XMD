@@ -3,7 +3,7 @@
 
 <a href="https://i.ibb.co/dJfTwhfK/images-59.jpg"><img src="![cb5dce0c62b8ee5800fcc9a752825aee (1)](https://github.com/user-attachments/assets/9b608c05-46f8-4987-9802-b1635f8369aa)
 " /></a>                     
-    <h1 align="center">NEZHA-XMD</h1>
+    <h1 align="center">NEZHA-XMD BOT CREATED BY UCEY</h1>
   </a>
 
 
@@ -12,7 +12,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## HERE IS THE PROGRESS FOR BUMBLEBEE 
+## HERE IS THE PROGRESS FOR NEZHA-XMD 
 
 
 <p align="center">
