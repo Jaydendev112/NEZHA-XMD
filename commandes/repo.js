@@ -35,23 +35,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-     *Bumblebee-XMD IMPORTANT INFO* 
+     *NEZHA-XMD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Black-Tappy/Bumblebee-XMD
+> https://github.com/Jaydendev112/NEZHA-XMD
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VasHgfG4tRrwjAUyTs10
+> https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *blacktappy*
-│❒⁠⁠⁠⁠ *DEV2* : *Bumblebee-XMD TECH*
+│❒⁠⁠⁠⁠ *DEV1* : *DARK TECH HUB*
+│❒⁠⁠⁠⁠ *DEV2* : *DARK-XMD TECH*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *Blacktappy Tech*
+     *Dark Tech Hub*
 
 ❒────────────────────❒`;
 
