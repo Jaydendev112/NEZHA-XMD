@@ -124,7 +124,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
     }
 
     menuMsg += `
-> © 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝐔𝐂𝐄𝐘❄️`;
+> © 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 DARK❄️`;
 
     
     try {
